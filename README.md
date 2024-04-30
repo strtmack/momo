@@ -1,5 +1,5 @@
 # MOMO
-<i>Momo was separated from her friends while exploring the caves of Mount Kioji – help her find a way back to the surface while collecting gems, dodging slimes, and avoiding icy pitfalls.</i>
+<i>Momo was separated from her friends while exploring the local mountain caves – help her find a way back to the surface while collecting gems, dodging slimes, and avoiding icy pitfalls.</i>
 <br/>
 <br/>
 ![Screenshot-0](images/screen-0.png)
